@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  How to learn me: [maxoyed.github.io](https://maxoyed.github.io)
+-  🌐 How to catch me: [maxoyed.github.io](https://maxoyed.github.io)
 
 ![maxoyed's github stats](https://github-readme-stats.vercel.app/api?username=maxoyed&show_icons=true)
